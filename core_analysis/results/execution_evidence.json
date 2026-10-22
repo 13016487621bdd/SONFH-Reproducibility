@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-10-21",
+  "overall_status": "STAGEWISE_REPRODUCTION_VERIFIED_FROM_SUPPLIED_INPUTS",
+  "python_statistics": {
+    "status": "PASS",
+    "checks": 76,
+    "evidence": "results/verification_checks.csv"
+  },
+  "native_scoring_cr2": {
+    "status": "PASS",
+    "checks": 16,
+    "execution": "User-run R on Windows",
+    "evidence": "results/native_R/native_R_verification.csv"
+  },
+  "blood_upstream": {
+    "status": "PASS",
+    "execution": "Python in preparation environment",
+    "evidence": "results/blood_upstream_python/blood_upstream_summary.json"
+  },
+  "tissue_upstream": {
+    "status": "PASS",
+    "execution": "User-run R on Windows",
+    "evidence": "results/tissue_native_R/verification_summary.json"
+  },
+  "limits": [
+    "Stagewise evidence across two environments; combined launcher not executed as one fresh end-to-end job.",
+    "Blood starts at deposited RMA-normalized probes; CEL-to-RMA is outside scope.",
+    "Tissue starts at supplied integer gene counts; FASTQ alignment/counting is outside scope.",
+    "Frozen gene sets and annotation tables are reproducible inputs, not freshly retrieved databases."
+  ]
+}

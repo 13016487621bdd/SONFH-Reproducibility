@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="446.4pt" viewBox="0 0 518.4 446.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T21:04:07.548790</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 446.4 
+L 518.4 446.4 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 13.32 119.88 
+L 248.04 119.88 
+Q 250.92 119.88 250.92 117 
+L 250.92 39.24 
+Q 250.92 36.36 248.04 36.36 
+L 13.32 36.36 
+Q 10.44 36.36 10.44 39.24 
+L 10.44 117 
+Q 10.44 119.88 13.32 119.88 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf1f5; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 266.76 119.88 
+L 505.08 119.88 
+Q 507.96 119.88 507.96 117 
+L 507.96 39.24 
+Q 507.96 36.36 505.08 36.36 
+L 266.76 36.36 
+Q 263.88 36.36 263.88 39.24 
+L 263.88 117 
+Q 263.88 119.88 266.76 119.88 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf1f5; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 131.04 122.240391 
+Q 131.04 127.43969 131.04 131.744562 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 132.84 128.144562 
+L 131.04 131.744562 
+L 129.24 128.144562 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 385.92 122.240391 
+Q 385.92 127.43969 385.92 131.744562 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 387.72 128.144562 
+L 385.92 131.744562 
+L 384.12 128.144562 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 259.2 136.637051 
+Q 259.2 142.197324 259.2 146.86317 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 261 143.26317 
+L 259.2 146.86317 
+L 257.4 143.26317 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 90.72 203.597051 
+Q 90.72 209.157324 90.72 213.82317 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 92.52 210.22317 
+L 90.72 213.82317 
+L 88.92 210.22317 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 259.2 203.597051 
+Q 259.2 209.157324 259.2 213.82317 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 261 210.22317 
+L 259.2 213.82317 
+L 257.4 210.22317 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 428.4 203.597051 
+Q 428.4 209.157324 428.4 213.82317 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 430.2 210.22317 
+L 428.4 213.82317 
+L 426.6 210.22317 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #9cabb4; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 13.32 332.28 
+L 168.12 332.28 
+Q 171 332.28 171 329.4 
+L 171 221.4 
+Q 171 218.52 168.12 218.52 
+L 13.32 218.52 
+Q 10.44 218.52 10.44 221.4 
+L 10.44 329.4 
+Q 10.44 332.28 13.32 332.28 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf1f5; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 182.52 332.28 
+L 337.32 332.28 
+Q 340.2 332.28 340.2 329.4 
+L 340.2 221.4 
+Q 340.2 218.52 337.32 218.52 
+L 182.52 218.52 
+Q 179.64 218.52 179.64 221.4 
+L 179.64 329.4 
+Q 179.64 332.28 182.52 332.28 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf3f0; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 351.72 332.28 
+L 505.08 332.28 
+Q 507.96 332.28 507.96 329.4 
+L 507.96 221.4 
+Q 507.96 218.52 505.08 218.52 
+L 351.72 218.52 
+Q 348.84 218.52 348.84 221.4 
+L 348.84 329.4 
+Q 348.84 332.28 351.72 332.28 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #f8f0e5; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 13.32 440.28 
+L 248.04 440.28 
+Q 250.92 440.28 250.92 437.4 
+L 250.92 384.84 
+Q 250.92 381.96 248.04 381.96 
+L 13.32 381.96 
+Q 10.44 381.96 10.44 384.84 
+L 10.44 437.4 
+Q 10.44 440.28 13.32 440.28 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf1f5; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 266.76 440.28 
+L 505.08 440.28 
+Q 507.96 440.28 507.96 437.4 
+L 507.96 384.84 
+Q 507.96 381.96 505.08 381.96 
+L 266.76 381.96 
+Q 263.88 381.96 263.88 384.84 
+L 263.88 437.4 
+Q 263.88 440.28 266.76 440.28 
+z
+" clip-path="url(#pdaa2a30b9d)" style="fill: #eaf1f5; stroke: #81939d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 131.04 134.64 
+L 385.92 134.64 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 90.72 201.6 
+L 428.4 201.6 
+" clip-path="url(#pdaa2a30b9d)" style="fill: none; stroke: #9cabb4; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263746" x="11.52" y="16.238438" transform="rotate(-0 11.52 16.238438)">A  Study inputs and functional definitions</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #315d77" x="20.88" y="53.525125" transform="rotate(-0 20.88 53.525125)">Blood discovery | GSE123568</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 74.706703)">30 SONFH + 10 GC-exposed non-SONFH</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 84.946893)">Deposited RMA + GPL15207 annotation</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 95.187083)">Probe-to-gene median → 18,833 genes × 40</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #315d77" x="274.32" y="53.486625" transform="rotate(-0 274.32 53.486625)">Literature-guided functional panel</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(274.32 74.706703)">6 predefined domains; 85 frozen gene sets</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(274.32 84.946893)">28 functional groups; 21 with ≥2 sets</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(274.32 95.187083)">11 predefined opposing-process pairs</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263746" x="259.2" y="159.858516" transform="rotate(-0 259.2 159.858516)">GSVA scoring across all 40 blood samples</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263746" x="11.52" y="185.438438" transform="rotate(-0 11.52 185.438438)">B  Three prespecified parallel questions</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #315d77" x="20.88" y="235.685125" transform="rotate(-0 20.88 235.685125)">Layer 1 | Association</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 256.866703)">Which functions are</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 267.106893)">associated with SONFH?</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 277.347083)"/>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 287.587273)">85 sets; sex-adjusted HC3</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 297.827463)">BH across 85 tests</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #286c60" x="190.08" y="235.685125" transform="rotate(-0 190.08 235.685125)">Layer 2 | Effect differences</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(190.08 256.866703)">Do related components have</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(190.08 267.106893)">distinguishable effects?</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(190.08 277.347083)"/>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(190.08 287.587273)">21 groups; standardized scores</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(190.08 297.827463)">Sex-adjusted CR2; BH across 21</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a622e" x="359.28" y="235.685125" transform="rotate(-0 359.28 235.685125)">Layer 3 | Process contrasts</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(359.28 256.866703)">Are opposing-process</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(359.28 267.106893)">differences associated?</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(359.28 277.347083)"/>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(359.28 287.587273)">11 contrasts: z(A) − z(B)</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(359.28 297.827463)">Sex-adjusted HC3; BH across 11</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263746" x="259.2" y="349.558594" transform="rotate(-0 259.2 349.558594)">Distinct questions; no sequential significance filter.</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263746" x="11.52" y="375.518438" transform="rotate(-0 11.52 375.518438)">C  Sensitivity analyses and exploratory follow-up</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #315d77" x="20.88" y="399.086625" transform="rotate(-0 20.88 399.086625)">Blood-based characterization</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 420.306703)">Alternative scoring; membership; leave-one-out</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(20.88 430.546893)">Erythroid expression proxy; component analysis</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #315d77" x="274.32" y="399.086625" transform="rotate(-0 274.32 399.086625)">Exploratory tissue assessment</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(274.32 420.306703)">GSE345158: 5 SONFH + 4 fracture controls</text>
+    <text style="font-size: 8.3px; font-family: 'DejaVu Sans'; fill: #263746" transform="translate(274.32 430.546893)">Exact permutation; shared-gene sensitivity</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdaa2a30b9d">
+   <rect x="0" y="0" width="518.4" height="446.4"/>
+  </clipPath>
+ </defs>
+</svg>

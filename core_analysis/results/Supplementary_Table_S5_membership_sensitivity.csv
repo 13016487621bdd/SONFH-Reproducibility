@@ -1,0 +1,7 @@
+scenario,beta,HC3_SE,t,P_nominal,CI_lower,CI_upper,n_genes_in_frozen_set,n_genes_measured,execution_status
+original,-0.3854941216882137,0.065411665446854,-5.893354328386909,8.755938398611837e-07,-0.518030745210811,-0.2529574981656164,24,22,GSVA rescoring verified in user-run native R; regression independently verified in Python
+remove_SNCA,-0.3605246974200891,0.0655878179854347,-5.496824082486659,3.0156303178072742e-06,-0.493418239888702,-0.2276311549514763,23,21,GSVA rescoring verified in user-run native R; regression independently verified in Python
+remove_PRDX2,-0.3621714319176842,0.064972952154811,-5.574187718217547,2.3694917568431354e-06,-0.4938191378745133,-0.2305237259608551,23,21,GSVA rescoring verified in user-run native R; regression independently verified in Python
+remove_SNCA_PRDX2,-0.3297689933811827,0.0667897826041453,-4.937416780283327,1.7113031760606288e-05,-0.4650979475010548,-0.1944400392613107,22,20,GSVA rescoring verified in user-run native R; regression independently verified in Python
+remove_MPO_EPX,-0.3657371343674077,0.0642027766424328,-5.696593722173767,1.6175922104972423e-06,-0.4958243165058465,-0.2356499522289688,22,20,GSVA rescoring verified in user-run native R; regression independently verified in Python
+remove_SNCA_PRDX2_MPO_EPX,-0.3077301635256754,0.0620288203561321,-4.9610836020880935,1.5907703014588786e-05,-0.433412491821857,-0.1820478352294938,20,18,GSVA rescoring verified in user-run native R; regression independently verified in Python

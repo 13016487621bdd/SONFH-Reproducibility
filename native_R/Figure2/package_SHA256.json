@@ -1,0 +1,12 @@
+{
+  "Figure2_legend.txt": "406b89001f2a7ec142122818fba001d899f38b83c0bf2411a5cdb9eb88efc531",
+  "README_CN.txt": "67d29cc6ea15a319a28c2ba22f092b588361cb563204f42971828d4c27d4c495",
+  "RUN_FIGURE2.R": "f4124b1075abe1017439fa0a85be564e9e6f402f54cc2caa771cd89884924485",
+  "code/draw_figure2.R": "c8b57b5234d6502f5743ece99a4d21ff3262658f0d8e750821600fe8267e029c",
+  "inputs/03_QC/SONFH_QC03_gene_expression_median_log2.csv.gz": "4d7996f46f0a9934a0ac9c3cbf64c491213723b538074deaf0aec339181a1d0e",
+  "inputs/03_QC/SONFH_sample_manifest_aligned.csv": "d4dcc6c81a303483a137a42fc4b46fc8b7f1b3567dd58298d12b1231339ef671",
+  "inputs/04_GeneSet_Scoring/SONFH_GSVA_scores_85x40.csv": "ea2a9d96b3224291f62568cc37880b8f1a1544756b422b140140bd9f9a149073",
+  "inputs/frozen_85.gmt": "96f362a8a93234e7c31fbbb890bcac5116a7a576f0eae05d71bfd610104e3e45",
+  "reference/Figure2_archived_display_z.csv": "1cfee09f5f64dcf27f7c4f592e5be9ff25675d01a37e3529bd61b8061cae655d",
+  "reference/Layer1_archived_all85.csv": "e6e8afd2a54fe8cbce97f07f4714311dbf43dbc9005990a309c11d4bf4ccb181"
+}

@@ -1,0 +1,22 @@
+"Family","N_sets","N_positive","N_negative","N_Layer1_sig","Beta_min","Beta_max","Opposite_directions","Layer2_P","Layer2_FDR"
+"Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）.Family 3 — Reactive oxygen species metabolism（活性氧代谢）",6,5,1,2,-0.385494121688213,0.309246420083927,TRUE,0.00653271158606731,0.137186943307413
+"Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）.Family 5 — Glutathione / antioxidant defense（谷胱甘肽 / 抗氧化防御）",3,0,3,2,-0.511938984096654,-0.00267304999977826,FALSE,0.0288919919918379,0.169879862421651
+"Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）.Family 4 — Leukocyte activation/trafficking（白细胞活化/募集）",3,3,0,0,0.163125052750814,0.264201758381199,FALSE,0.0343654061948516,0.169879862421651
+"Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）.Family 1 — Oxygen-level / hypoxia response（氧水平 / 缺氧应答）",3,2,1,0,-0.126870783185813,0.461846340016312,TRUE,0.0354361492167441,0.169879862421651
+"Domain 1 — Vascular / microcirculation（血管 / 微循环）.Hemostasis / thrombosis-fibrinolysis（止血 / 血栓-纤溶）",3,1,2,0,-0.0724433636230375,0.198912206075468,TRUE,0.0404475862908692,0.169879862421651
+"Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）.Family 2 — Oxidative-stress response（氧化应激应答）",2,2,0,0,0.0356375123956494,0.0778732984797544,FALSE,0.0741835506775855,0.206878170987855
+"Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）.Family 5 — Adaptive T/B immunity（T/B适应性免疫）",4,4,0,3,0.225299639209953,0.368116050575967,FALSE,0.0773475999525247,0.206878170987855
+"Domain 2 — Lipid metabolism（脂质代谢）.三酰甘油 / 中性脂质",3,1,2,0,-0.214587075722319,0.0539502481219993,TRUE,0.0788107318048972,0.206878170987855
+"Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）.Family 3 — Cytokine signaling/response（细胞因子信号/应答）",5,5,0,0,0.14941542962627,0.279427973517408,FALSE,0.117779433057902,0.274818677135105
+"Domain 2 — Lipid metabolism（脂质代谢）.脂滴",3,2,1,0,-0.217442713493114,0.128567422754945,TRUE,0.181407345690007,0.378838200877398
+"Domain 2 — Lipid metabolism（脂质代谢）.脂肪酸",5,4,1,0,-0.0360505754815508,0.140530202636419,TRUE,0.198439057602446,0.378838200877398
+"Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）.Family 1 — Inflammatory response（炎症应答）",3,3,0,0,0.0859673747644163,0.223212299255993,FALSE,0.259809213818023,0.454666124181541
+"Domain 2 — Lipid metabolism（脂质代谢）.糖脂",3,3,0,1,0.0778479837789233,0.484628097175303,FALSE,0.283669150987191,0.458234782363924
+"Domain 2 — Lipid metabolism（脂质代谢）.胆固醇 / 甾醇",6,5,1,0,-0.0571419816213889,0.165871052535974,TRUE,0.334662098214816,0.470981682846564
+"Domain 6 — Cell injury / death（细胞损伤 / 死亡）.Family 1 — Apoptosis（细胞凋亡）",4,4,0,0,0.00883317286496415,0.15474519101473,FALSE,0.336415487747546,0.470981682846564
+"Domain 2 — Lipid metabolism（脂质代谢）.神经酰胺",3,3,0,0,0.0316783995742881,0.179889883448389,FALSE,0.363895389306195,0.474591002015278
+"Domain 2 — Lipid metabolism（脂质代谢）.脂蛋白",3,3,0,0,0.10477632222091,0.201540125464961,FALSE,0.38419271591713,0.474591002015278
+"Domain 2 — Lipid metabolism（脂质代谢）.磷脂",4,4,0,0,0.013794304032344,0.165735602592101,FALSE,0.43700474339818,0.509838867297877
+"Domain 1 — Vascular / microcirculation（血管 / 微循环）.Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）",5,3,2,0,-0.0464578520765939,0.019076336482566,TRUE,0.599865090824082,0.663008784595038
+"Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）.Family 2 — Innate immune response（先天免疫应答）",5,5,0,0,0.215896430635189,0.254929717822438,FALSE,0.64784060731788,0.680232637683774
+"Domain 5 — Bone remodeling / repair（骨重塑 / 修复）.Family 2 — Osteoclast differentiation / bone resorption（破骨细胞分化 / 骨吸收）",2,2,0,0,0.188057735694107,0.217620153948734,FALSE,0.98471495135231,0.98471495135231

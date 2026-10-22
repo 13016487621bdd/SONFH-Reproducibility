@@ -1,0 +1,43 @@
+{
+  "status": "PASS_RECONSTRUCTED_COUNTS_TO_PAIR11",
+  "execution": "User-run native R; report pasted into conversation; full intermediate RDS not returned",
+  "user_execution_time": "2026-10-21 12:52:43 Asia/Shanghai",
+  "R": "4.5.0",
+  "DESeq2": "1.50.2",
+  "GSVA": "2.4.9",
+  "readxl": "1.5.0.1",
+  "SummarizedExperiment": "1.40.0",
+  "counts_shape": [
+    20345,
+    9
+  ],
+  "unique_mapping_rows": 18572,
+  "corrected_symbol_matrix_shape": [
+    18573,
+    9
+  ],
+  "matched_recipe": {
+    "function": "vst",
+    "design": "~1",
+    "blind": true,
+    "nsub": 1000,
+    "fitType": "parametric",
+    "size_factor_type": "ratio"
+  },
+  "size_factor_max_error": 0,
+  "vst_matrix_max_error": 0,
+  "mapped_matrix_max_error": 0,
+  "component_z_and_pair11_max_error": 4.218847493575595e-15,
+  "effect": 1.2937192585681867,
+  "exact_P": 0.03968253968253968,
+  "exact_extreme": 5,
+  "exact_allocations": 126,
+  "input_MD5": {
+    "GSE345158_gene_count_exp.annotation.xlsx": "5ae538bfa2cc1c5aee87f539e8be2768",
+    "GSE345158_Pair11_analysis_objects.rds": "b746e6379117033a183e38c503c98b62",
+    "GSE345158_reproducibility_inputs.rds": "8433e47e48b2604bf88ff98d907a91db",
+    "GSE345158_Pair11_SOD2_corrected_scores.csv": "44324d5555a5b2b316d63212c1f5a67e"
+  },
+  "local_input_checksums_match": true,
+  "interpretation": "Equivalent reconstructed recipe; unique historical settings not established"
+}

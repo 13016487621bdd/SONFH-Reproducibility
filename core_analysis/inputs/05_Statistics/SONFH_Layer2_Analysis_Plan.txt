@@ -1,0 +1,16 @@
+SONFH Layer 2 Statistical Analysis Plan
+Question: Within-family heterogeneous remodeling
+Samples: 40 (30 SONFH, 10 GC-exposed non-SONFH)
+Gene sets: 78 in 21 prespecified multi-set families
+Primary score: GSVA
+Standardization: per gene set across all 40 samples
+Contrast: each set minus first set within family
+Model: multivariate linear model, contrast ~ group + sex
+Disease reference: GC-exposed non-SONFH
+Cluster unit: individual patient (GSM)
+Covariance: clubSandwich CR2
+Omnibus test: Wald HTZ
+Multiplicity: BH-FDR across 21 family tests
+Significance threshold: FDR < 0.05
+No outcome-based gene set or family selection
+All 40 samples retained in primary analysis

@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-22",
+  "public_destination": "https://github.com/13016487621bdd/SONFH-Reproducibility",
+  "tissue_RDS": {
+    "file": "core_analysis/inputs/06_Validation/GSE345158_Pair11_analysis_objects.rds",
+    "sha256": "cb45bccf08e98374ea7b477d0a84486437aff82419cf11b0a3d72e0b8f7acaed",
+    "objects": {
+      "metadata": {
+        "type": "DataFrame",
+        "shape": [
+          9,
+          2
+        ],
+        "columns": [
+          "sample",
+          "group"
+        ]
+      },
+      "gene_mapping": {
+        "type": "DataFrame",
+        "shape": [
+          20836,
+          2
+        ],
+        "columns": [
+          "ENSEMBL",
+          "SYMBOL"
+        ]
+      },
+      "unique_mapping": {
+        "type": "DataFrame",
+        "shape": [
+          18572,
+          2
+        ],
+        "columns": [
+          "ENSEMBL",
+          "SYMBOL"
+        ]
+      },
+      "pair11_genes": {
+        "type": "list",
+        "shape": null,
+        "columns": null
+      },
+      "final_coverage": {
+        "type": "DataFrame",
+        "shape": [
+          2,
+          4
+        ],
+        "columns": [
+          "Gene_set",
+          "Frozen_genes",
+          "Available_genes",
+          "Coverage"
+        ]
+      },
+      "detection": {
+        "type": "DataFrame",
+        "shape": [
+          39,
+          3
+        ],
+        "columns": [
+          "SYMBOL",
+          "Detected",
+          "N_detected"
+        ]
+      },
+      "size_factors": {
+        "type": "DataArray",
+        "shape": [
+          9
+        ],
+        "columns": null
+      },
+      "sample_scores": {
+        "type": "DataFrame",
+        "shape": [
+          9,
+          5
+        ],
+        "columns": [
+          "Sample",
+          "Group",
+          "Biosynthesis_Z",
+          "Catabolism_Z",
+          "Pair11"
+        ]
+      },
+      "permutation_p": {
+        "type": "ndarray",
+        "shape": [
+          1
+        ],
+        "columns": null
+      },
+      "observed_diff": {
+        "type": "ndarray",
+        "shape": [
+          1
+        ],
+        "columns": null
+      },
+      "loo": {
+        "type": "DataFrame",
+        "shape": [
+          9,
+          2
+        ],
+        "columns": [
+          "Removed",
+          "Mean_difference"
+        ]
+      }
+    },
+    "sample_labels": [
+      "Case-1",
+      "Case-2",
+      "Case-3",
+      "Case-4",
+      "Case-5",
+      "Ctrl-1",
+      "Ctrl-2",
+      "Ctrl-4",
+      "Ctrl-5"
+    ],
+    "sample_metadata_columns": [
+      "sample",
+      "group"
+    ],
+    "individual_names_contact_dates_of_birth_present": false,
+    "interpretation": "Public GEO sample labels and disease/control categories; frozen Ensembl-to-symbol mapping, gene-set members, coverage/detection summaries, size factors, statistical scores and legacy estimates. No original count matrix is embedded in this object. The original GEO count input has separately been publicly downloaded and checksum matched.",
+    "legacy_estimate_notice": "The stored legacy observed_diff and permutation_p are superseded; reconstruction uses gene_mapping and size_factors, not those legacy effect estimates."
+  },
+  "master_workbook": {
+    "file": "core_analysis/inputs/Master_GeneSet_Frozen.xlsx",
+    "sha256": "51dbb00d00b07114f28f25cff6aaedfa93782dd42ef9a5aa9a3eff1ed4bb99b5",
+    "sheets": [
+      {
+        "name": "README",
+        "rows": 13,
+        "columns": 6
+      },
+      {
+        "name": "Domain_Summary",
+        "rows": 7,
+        "columns": 5
+      },
+      {
+        "name": "Master_Core_Set_List",
+        "rows": 86,
+        "columns": 13
+      },
+      {
+        "name": "Cross_Domain_Overlap_Audit",
+        "rows": 1340,
+        "columns": 13
+      },
+      {
+        "name": "Global_Audit_Checks",
+        "rows": 8,
+        "columns": 4
+      },
+      {
+        "name": "Strict_Mismatch_Pairs",
+        "rows": 12,
+        "columns": 9
+      },
+      {
+        "name": "Cross_Domain_Coupling",
+        "rows": 2,
+        "columns": 9
+      },
+      {
+        "name": "Freeze_Record",
+        "rows": 9,
+        "columns": 4
+      },
+      {
+        "name": "Source_Trace",
+        "rows": 11,
+        "columns": 2
+      }
+    ],
+    "external_links": 0,
+    "embedded_files_or_macros_or_comments": false,
+    "participant_level_information": false,
+    "interpretation": "Literature-guided functional gene-set definitions, gene identifiers, overlap audit and historical planning records, not participant records."
+  }
+}

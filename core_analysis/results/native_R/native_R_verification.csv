@@ -1,0 +1,17 @@
+"check","max_absolute_error"
+"GSVA parameter matrix",0
+"All GSVA scores",5.55111512312578e-16
+"All ssGSEA scores",5.00222085975111e-12
+"CR2 family statistic",5.32907051820075e-15
+"CR2 family df_num",0
+"CR2 family df_denom",8.88178419700125e-15
+"CR2 family p",4.71844785465692e-16
+"CR2 family FDR",4.9960036108132e-16
+"Gene removal score original",4.44089209850063e-16
+"Gene removal score remove_SNCA",4.9960036108132e-16
+"Gene removal score remove_PRDX2",4.9960036108132e-16
+"Gene removal score remove_SNCA_PRDX2",4.9960036108132e-16
+"Gene removal score remove_MPO_EPX",4.44089209850063e-16
+"Gene removal score remove_SNCA_PRDX2_MPO_EPX",4.9960036108132e-16
+"Tissue effect (archive sub-micro discrepancy)",7.41431813278126e-07
+"Tissue exact P",3.1746032191915e-10

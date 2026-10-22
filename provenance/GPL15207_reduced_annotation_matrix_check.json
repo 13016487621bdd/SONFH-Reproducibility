@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "scope": "Deposited RMA-normalized probe matrix to frozen gene-level matrix; not CEL-to-RMA reproduction",
+  "input_probes": 49293,
+  "samples": 40,
+  "platform_rows": 49395,
+  "annotation_dates": [
+    "30-Mar-16"
+  ],
+  "unannotated_probes": 430,
+  "ambiguous_probes": 1994,
+  "unambiguous_probes_before_symbol_filter": 46869,
+  "nonstandard_excluded": 2,
+  "retained_probes": 46867,
+  "final_genes": 18833,
+  "expression_values_compared": 753320,
+  "gene_identifiers_and_order": "EXACT",
+  "sample_identifiers_and_order": "EXACT",
+  "maximum_absolute_difference": 1.7763568394002505e-15,
+  "numeric_tolerance": 1e-12,
+  "audit_provenance": "QC02 mapping and QC03 decisions newly reconstructed from the two sources; not compared to unavailable historical audit tables",
+  "reference_role": "Validation only; not used to select probes, construct annotations, or calculate gene medians",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "system": "Linux-6.18.55-x86_64-with-glibc2.39"
+}

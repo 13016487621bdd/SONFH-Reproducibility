@@ -1,0 +1,16 @@
+{
+  "README_CN.txt": "dfa0d116f970ec0a7bde03d65ad8ffa5137d1311c283d5b860e26d8d0c1188da",
+  "RUN_FIGURE3.R": "87f0413538dfb163b13a6a8d3ecabe7084a531aad71b5c89aa81c20de4079b69",
+  "code/draw_figure3.R": "48d39247075e43a0a1cd8501b14eef43bdffbd9aa250df86921b470ff0c78a1b",
+  "code/layer2_original_function.R": "a00506d1569da51171c261f6e52f35b2116adff721912f48a30d2cd4a859cc87",
+  "inputs/03_QC/SONFH_QC03_gene_expression_median_log2.csv.gz": "4d7996f46f0a9934a0ac9c3cbf64c491213723b538074deaf0aec339181a1d0e",
+  "inputs/03_QC/SONFH_sample_manifest_aligned.csv": "d4dcc6c81a303483a137a42fc4b46fc8b7f1b3567dd58298d12b1231339ef671",
+  "inputs/04_GeneSet_Scoring/SONFH_GSVA_scores_85x40.csv": "ea2a9d96b3224291f62568cc37880b8f1a1544756b422b140140bd9f9a149073",
+  "inputs/05_Statistics/SONFH_Layer1_GSVA_85_audit.csv": "8424b5be90b722b0c30cdc0d9cd3fb04a238fa70416df6bc8f94f8c42c90e989",
+  "inputs/05_Statistics/SONFH_Layer2_21_family_omnibus_results.csv": "e2b09c6995df5591e373b02e731b1d3442797e6ca9e55d29c0d7e3272c98df30",
+  "inputs/family_display_map.csv": "0b3f3b471e3b2750a09bb4c83eb52305f29aaa0c6c8b41bb57d5ea028aa8e0f1",
+  "inputs/frozen_85.gmt": "96f362a8a93234e7c31fbbb890bcac5116a7a576f0eae05d71bfd610104e3e45",
+  "reference/Layer2_21_groups.csv": "ddda785162eae8d25276b118c2f9abe438340be9937bace08b84c94567df1e33",
+  "reference/Layer3_11_GSVA_contrasts.csv": "d95d7e5b8d6a8811ad5e86918334a0b625d3c8150d9755643da66c3902becf16",
+  "reference/Layer3_frozen_pairs.csv": "e63a98d2a443fa881a52376798f7f18e8a72ea9c765923fba54a87e282eaf8fb"
+}

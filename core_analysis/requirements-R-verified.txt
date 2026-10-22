@@ -1,0 +1,9 @@
+User-run Windows environment, 2026-10-21
+R 4.5.0
+GSVA 2.4.9
+clubSandwich 0.7.0
+DESeq2 1.50.2
+readxl 1.5.0.1
+SummarizedExperiment 1.40.0
+Full initial native session: results/native_R/sessionInfo.txt
+Tissue-specific report excerpt: results/tissue_native_R/user_supplied_report.txt

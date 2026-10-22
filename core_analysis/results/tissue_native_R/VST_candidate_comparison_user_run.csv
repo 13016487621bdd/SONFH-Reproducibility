@@ -1,0 +1,5 @@
+candidate,max_absolute_error,matches_reference
+vst_group_blind_FALSE,0.1819634698326924,False
+vst_intercept_blind_TRUE,0.0,True
+fullVST_group_blind_FALSE,1.6489857481968988,False
+fullVST_intercept_blind_TRUE,1.853356458952939,False

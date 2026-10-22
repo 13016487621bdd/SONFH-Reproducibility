@@ -1,0 +1,23 @@
+{
+  "README_CN.txt": "9517f7e2340c33998ce91a84d89ced9fb95d87d22b64cdbd10eb97bfa019ec27",
+  "RUN_FIGURE5.R": "104eb8559cb111f7cad01f90bea04b7e6ee87ba285aa811401494efe483ed51f",
+  "code/draw_figure5.R": "c7fe091c966467916c4b1d8fca488d74430c05659b9a5d4ec2f435b36d9a0e66",
+  "inputs/03_QC/SONFH_QC03_gene_expression_median_log2.csv.gz": "4d7996f46f0a9934a0ac9c3cbf64c491213723b538074deaf0aec339181a1d0e",
+  "inputs/03_QC/SONFH_sample_manifest_aligned.csv": "d4dcc6c81a303483a137a42fc4b46fc8b7f1b3567dd58298d12b1231339ef671",
+  "inputs/04_GeneSet_Scoring/SONFH_GSVA_scores_85x40.csv": "ea2a9d96b3224291f62568cc37880b8f1a1544756b422b140140bd9f9a149073",
+  "inputs/frozen_85.gmt": "96f362a8a93234e7c31fbbb890bcac5116a7a576f0eae05d71bfd610104e3e45",
+  "reference/Layer1_GSVA.csv": "e6e8afd2a54fe8cbce97f07f4714311dbf43dbc9005990a309c11d4bf4ccb181",
+  "reference/Layer1_LOO_summary.csv": "4359e9bf2ea1cea6de861e1744c95c496ff000d6b18c88094846c17847b6b897",
+  "reference/Layer1_ssGSEA.csv": "8fcd56e5c4bc375710ce886ca3cd27bfb8edf91994e7afee193b8429d3c9c8fb",
+  "reference/Layer3_GSVA.csv": "d95d7e5b8d6a8811ad5e86918334a0b625d3c8150d9755643da66c3902becf16",
+  "reference/Layer3_LOO_FDR.csv": "09a734f6e93381ea3efc28828107c9e9b6e1af4bfef7c54791c2f8bd6bd65399",
+  "reference/Layer3_ssGSEA.csv": "aa7c3b95792b14cb266bbfec0ac5441a6e9c96df91da5f44cb5a9bbdfa5e6dad",
+  "reference/all85_proxy_adjusted.csv": "6e7f3101c897db73d2a4522a8a8ff889cc025828e48c2f88c04c503493b962f5",
+  "reference/frozen_11_pairs.csv": "e63a98d2a443fa881a52376798f7f18e8a72ea9c765923fba54a87e282eaf8fb",
+  "reference/gene_removal_models.csv": "655bdd501bcefff9228bfab05c04411172e370cc950215dc0ba748a4731f51dc",
+  "reference/gene_removal_scores.csv": "2b9e051d1cb8f0c59ab4a242fe6537bf9c4d127211324de2706761e769cc9830",
+  "reference/proxy_correlations.csv": "ba38d7cc63fa315ff4533c959b1218728b64cea1c5769cb9f853bd94ae4f34a0",
+  "reference/proxy_individual.csv": "057f1b6569e073c2469ba8e15ba60d40d6b071576966fca8aa92992e775b0600",
+  "reference/proxy_models.csv": "60c35d784d27ff4308713853b654ad436767b6323b5fd501f8d9b5cadda8bd30",
+  "reference/ssGSEA_scores.csv": "e05137b2fa1aca8dadcb24cf90a5418f8b8f91f046db3edf3530df47969bb512"
+}

@@ -1,0 +1,53 @@
+{
+  "samples": 40,
+  "cases": 30,
+  "controls": 10,
+  "genes": 18833,
+  "gene_sets": 85,
+  "layer1_significant": 8,
+  "layer2_significant_archived": 0,
+  "layer3_significant": 1,
+  "pair11_GSVA": {
+    "Pair_ID": "Pair_11",
+    "Set_A": "GOBP_HYDROGEN_PEROXIDE_BIOSYNTHETIC_PROCESS",
+    "Set_B": "GOBP_HYDROGEN_PEROXIDE_CATABOLIC_PROCESS",
+    "beta": 1.5202835289295353,
+    "HC3_SE": 0.48870187882821764,
+    "t": 3.110860822910661,
+    "p": 0.0035836712195996207,
+    "CI_lower": 0.5300794653796357,
+    "CI_upper": 2.5104875924794348,
+    "FDR": 0.039420383415595825
+  },
+  "pair11_ssGSEA": {
+    "Pair_ID": "Pair_11",
+    "Set_A": "GOBP_HYDROGEN_PEROXIDE_BIOSYNTHETIC_PROCESS",
+    "Set_B": "GOBP_HYDROGEN_PEROXIDE_CATABOLIC_PROCESS",
+    "beta": 2.139373174515848,
+    "HC3_SE": 0.7222639659266104,
+    "t": 2.9620378081179686,
+    "p": 0.0053136123402204504,
+    "CI_lower": 0.6759273704378366,
+    "CI_upper": 3.6028189785938594,
+    "FDR": 0.05844973574242496
+  },
+  "proxy_genes": [
+    "ALAS2",
+    "AHSP",
+    "GYPA",
+    "SLC4A1"
+  ],
+  "proxy_catabolism_rho": 0.7694183864915572,
+  "proxy_adjusted_85_significant": 0,
+  "tissue_corrected_effect": 1.2937192585681863,
+  "tissue_exact_extreme": 5,
+  "tissue_exact_allocations": 126,
+  "tissue_exact_P": 0.03968253968253968,
+  "numerical_checks_passed": 76,
+  "execution_scope": "Independent Python recalculation from frozen scores and matrices; no R runtime in this environment. GSVA/ssGSEA scoring and CR2 family inference NOT rerun here.",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0"
+}

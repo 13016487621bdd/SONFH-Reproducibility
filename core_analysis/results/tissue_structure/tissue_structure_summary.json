@@ -1,0 +1,30 @@
+{
+  "status": "STRUCTURAL_CHECKS_PASS_NATIVE_VST_PENDING",
+  "genes": 20345,
+  "samples": 9,
+  "size_factor_max_absolute_error": 8.881784197001252e-16,
+  "mapping_rows": 18572,
+  "mapping_rule": "Drop missing/empty symbols; simultaneously remove all duplicated ENSEMBL or SYMBOL rows",
+  "corrected_genes": 18573,
+  "SOD2_ENSEMBL": "ENSG00000112096",
+  "frozen_vst_to_symbol_matrix_max_error": 0.0,
+  "parametric_diagnostic_inferred_k": 211.27973351208593,
+  "parametric_diagnostic_max_error": 3.552713678800501e-15,
+  "diagnostic_limit": "k was inferred from the archived VST. Not independent dispersion fitting or VST reproduction.",
+  "native_R_status": "Not executed in this preparation environment",
+  "annotation_scope": "Rebuilt from full frozen annotation; not a new annotation-database query",
+  "sources": [
+    {
+      "filename": "GSE345158_gene_count_exp.annotation.xlsx",
+      "sha256": "f565ea527d67e3ba98a2f1e98939cea939ef982dc26134e42bc2920745f86de4"
+    },
+    {
+      "filename": "GSE345158_Pair11_analysis_objects.rds",
+      "sha256": "cb45bccf08e98374ea7b477d0a84486437aff82419cf11b0a3d72e0b8f7acaed"
+    },
+    {
+      "filename": "GSE345158_reproducibility_inputs.rds",
+      "sha256": "b22a4695b73007f2c659ab39cd4ad723c6a7ab3103fc21c3d7472465c6dfa96f"
+    }
+  ]
+}

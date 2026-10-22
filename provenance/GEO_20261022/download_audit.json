@@ -1,0 +1,36 @@
+{
+  "GSE345158_suppl_index.html": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/suppl/",
+    "final_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/suppl/",
+    "http_status": 200,
+    "bytes": 754,
+    "md5": "805e9d105df314cc7587a7477c005282",
+    "sha256": "03f1fad240af60744094d0093e0c0167b79250815e3c4754c98fdc091c69161e"
+  },
+  "GSE345158_family.soft.gz": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/soft/GSE345158_family.soft.gz",
+    "final_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/soft/GSE345158_family.soft.gz",
+    "http_status": 200,
+    "bytes": 2077,
+    "md5": "dbd822bf8c1d6c0b2e568edd58f02263",
+    "sha256": "86f65eda473de87ea07e18d96eb64488cc30516fc2d94aa3e349da5eccc82616"
+  },
+  "GSE345158_gene_count_exp.annotation.xlsx": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/suppl/GSE345158_gene_count_exp.annotation.xlsx",
+    "final_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE345nnn/GSE345158/suppl/GSE345158_gene_count_exp.annotation.xlsx",
+    "http_status": 200,
+    "bytes": 1319494,
+    "md5": "5ae538bfa2cc1c5aee87f539e8be2768",
+    "sha256": "f565ea527d67e3ba98a2f1e98939cea939ef982dc26134e42bc2920745f86de4"
+  },
+  "GSE345158_metadata.txt": {
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE345158&targ=all&form=text&view=full",
+    "final_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE345158&targ=all&form=text&view=full",
+    "http_status": 200,
+    "bytes": 40717893,
+    "md5": "af7c584188b3ecff0199059225db7e8f",
+    "sha256": "4d077a236bcd7c48c93083c620a00a3ea4c7588bc7e45b3be7e90dde8b5c3b35"
+  },
+  "archived_count_file_md5": "5ae538bfa2cc1c5aee87f539e8be2768",
+  "download_matches_archived_counts": true
+}

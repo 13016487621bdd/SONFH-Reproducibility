@@ -1,0 +1,3 @@
+Version,Difference,Exact_P,SONFH_correlation,Control_correlation,SONFH_Pair11_SD,Control_Pair11_SD,execution_status,archived_Difference
+SOD2_corrected,1.2937192585681867,0.03968253968253968,0.9612055,0.5261676,0.3044281,0.8832876,"Counts-to-VST, frozen annotation, GSVA and exact P verified in user-run native R; exact P also verified in Python",1.29372
+Remove_DUOX1_DUOX2,1.33414719952648,0.0555555555555556,0.931529,0.4133293,0.383463,1.0259696,Shared-gene rescoring and exact P verified in user-run native R,1.33414719952648

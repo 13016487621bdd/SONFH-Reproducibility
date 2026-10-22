@@ -1,0 +1,68 @@
+{
+  "samples": 40,
+  "cases": 30,
+  "controls": 10,
+  "E1_proxy_genes": [
+    "ALAS2",
+    "AHSP",
+    "GYPA",
+    "SLC4A1"
+  ],
+  "HBB_present_in_matrix": true,
+  "HBB_in_frozen_proxy": false,
+  "E1_four_gene_mean_control": 1.130520478876565,
+  "E1_four_gene_mean_case": -0.3768401596255213,
+  "catabolism_proxy_rho": 0.7694183864915572,
+  "catabolism_proxy_p": 6.580789763276218e-09,
+  "catabolism_primary": {
+    "beta": -0.3854941216882135,
+    "SE_HC3": 0.06541166544685405,
+    "CI95_low": -0.5180307452108108,
+    "CI95_high": -0.2529574981656162,
+    "df_t": 37,
+    "P_value_t": 8.755938398611976e-07
+  },
+  "catabolism_adjusted": {
+    "beta": -0.0978273646234231,
+    "SE_HC3": 0.11621363877865389,
+    "CI95_low": -0.33351954826252006,
+    "CI95_high": 0.13786481901567388,
+    "df_t": 36,
+    "P_value_t": 0.40546349354791983
+  },
+  "biosynthesis_primary": {
+    "beta": 0.029314320958825694,
+    "SE_HC3": 0.07812926838869742,
+    "CI95_low": -0.12899061379233148,
+    "CI95_high": 0.18761925570998286,
+    "df_t": 37,
+    "P_value_t": 0.709651964264437
+  },
+  "biosynthesis_adjusted": {
+    "beta": 0.10399820391810165,
+    "SE_HC3": 0.11359846358883269,
+    "CI95_low": -0.12639015860700603,
+    "CI95_high": 0.33438656644320935,
+    "df_t": 36,
+    "P_value_t": 0.366026601415662
+  },
+  "pair_primary": {
+    "beta": 1.520283528929534,
+    "SE_HC3": 0.48870187882821725,
+    "CI95_low": 0.5300794653796351,
+    "CI95_high": 2.510487592479433,
+    "df_t": 37,
+    "P_value_t": 0.0035836712195996294
+  },
+  "pair_adjusted": {
+    "beta": 0.8886825658577719,
+    "SE_HC3": 0.6706239757252364,
+    "CI95_low": -0.4714058962242389,
+    "CI95_high": 2.2487710279397826,
+    "df_t": 36,
+    "P_value_t": 0.1934683278755061
+  },
+  "n_primary_fdr_lt_005": 8,
+  "n_adjusted_fdr_lt_005": 0,
+  "adjusted_model_label": "exploratory only; do not replace primary model"
+}

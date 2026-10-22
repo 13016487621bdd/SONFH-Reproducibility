@@ -1,0 +1,11 @@
+{
+  "prepared": "2026-10-22",
+  "published": true,
+  "github_installed": true,
+  "github_publishing_tools_exposed": true,
+  "public_repository_url": "https://github.com/13016487621bdd/SONFH-Reproducibility",
+  "doi": null,
+  "tissue_download_verified": true,
+  "tissue_count_md5": "5ae538bfa2cc1c5aee87f539e8be2768",
+  "matching_as_reported_by_GEO": "age and sex matched; individual-level matching not independently verified"
+}

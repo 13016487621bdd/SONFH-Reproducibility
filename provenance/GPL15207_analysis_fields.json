@@ -1,0 +1,14 @@
+{
+  "source_full_archive_filename": "GPL15207-17536(5).zip",
+  "source_full_archive_sha256": "6aea2e5522055253b904849a54821c67da8e6008f6606a951b94e2db134a906e",
+  "source_full_archive_bytes": 40068950,
+  "distributed_annotation_filename": "GPL15207_analysis_fields.zip",
+  "distributed_annotation_sha256": "1dd17ac71ddefa10c9583ad52215271a05b76c201f7fccdf5af419f1c130dd3a",
+  "columns": [
+    "ID",
+    "Annotation Date",
+    "Gene Symbol"
+  ],
+  "rows": 49395,
+  "operation": "Retain the three original archived fields used by both upstream scripts; no current annotation lookup, symbol editing, or association-based selection."
+}

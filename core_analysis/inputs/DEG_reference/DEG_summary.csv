@@ -1,0 +1,2 @@
+n_samples,n_genes_tested,n_nominal_p_lt_005,n_FDR_lt_005,catabolism_n_listed,catabolism_n_measurable,catabolism_n_negative_beta,catabolism_n_nominal_p_lt_005,catabolism_n_FDR_lt_005_global,biosynthesis_n_listed,biosynthesis_n_measurable,biosynthesis_n_negative_beta,biosynthesis_n_nominal_p_lt_005,biosynthesis_n_FDR_lt_005_global
+40,18833,4780,1427,24,22,19,8,4,18,16,10,7,1

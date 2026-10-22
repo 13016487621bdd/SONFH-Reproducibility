@@ -1,0 +1,73 @@
+TISSUE UPSTREAM AUDIT
+ 2026-10-21 12:52:43
+A reconstructed workflow, not recovered historical source code.
+Frozen gene annotation is an input, not queried from a current database.
+Only full-matrix agreement may qualify a candidate; no P-value selection.
+
+PACKAGE VERSIONS
+DESeq2 1.50.2
+readxl 1.5.0.1
+GSVA 2.4.9
+SummarizedExperiment 1.40.0
+
+INPUT MD5
+GSE345158_gene_count_exp.annotation.xlsx 5ae538bfa2cc1c5aee87f539e8be2768
+GSE345158_Pair11_analysis_objects.rds b746e6379117033a183e38c503c98b62
+GSE345158_reproducibility_inputs.rds 8433e47e48b2604bf88ff98d907a91db
+GSE345158_Pair11_SOD2_corrected_scores.csv 44324d5555a5b2b316d63212c1f5a67e
+
+COUNTS: 20345 genes x 9 samples; SONFH=5, Control=4.
+ANNOTATION: 18572 one-to-one mappings reproduced exactly.
+Frozen correction: append ENSG00000112096 as SOD2.
+SIZE FACTORS maximum absolute error: 0
+
+FIXED CANDIDATES: parametric fit; vst nsub=1000; full VST uses all genes.
+Full-matrix tolerance: 1e-8. Each trend is estimated from counts.
+
+Running candidate 1 of 4 : vst_group_blind_FALSE
+Maximum absolute error: 0.1819634698326924 ; matches: FALSE
+Running candidate 2 of 4 : vst_intercept_blind_TRUE
+Maximum absolute error: 0 ; matches: TRUE
+Running candidate 3 of 4 : fullVST_group_blind_FALSE
+Maximum absolute error: 1.6489857481968988 ; matches: FALSE
+Running candidate 4 of 4 : fullVST_intercept_blind_TRUE
+Maximum absolute error: 1.853356458952939 ; matches: FALSE
+
+Matching recipes: vst_intercept_blind_TRUE
+Deterministically using the first matching recipe: vst_intercept_blind_TRUE
+Matrix agreement identifies an equivalent reconstruction, not unique historical settings.
+SYMBOL-MAPPED MATRIX maximum error: 0
+CORRECTED Z SCORES AND PAIR11 maximum error: 4.2188474935755949e-15
+PAIR11 EFFECT: 1.2937192585681867
+TWO-SIDED EXACT P: 0.03968253968253968 (5/126)
+
+SESSION INFO
+R version 4.5.0 (2025-04-11 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+Matrix products: default
+LAPACK version 3.12.1
+locale:
+LC_COLLATE=Chinese (Simplified)_China.utf8
+LC_CTYPE=Chinese (Simplified)_China.utf8
+LC_MONETARY=Chinese (Simplified)_China.utf8
+LC_NUMERIC=C
+LC_TIME=Chinese (Simplified)_China.utf8
+time zone: Asia/Shanghai
+tzcode source: internal
+attached base packages:
+stats graphics grDevices utils datasets methods base
+[Namespace package list omitted from this normalized excerpt.]
+
+FINAL STATUS: PASS_RECONSTRUCTED_COUNTS_TO_PAIR11
+Scope: supplied gene counts through VST, frozen symbol mapping and corrected Pair11.
+FASTQ alignment/count generation and fresh annotation database lookup are outside this scope.
+Report: D:/SONFH_Tissue_Check/TISSUE_CHECK_REPORT.txt
+Detailed outputs: D:/SONFH_Tissue_Check/results/20261021_125243
+
+CURATOR NOTE (not part of the original execution report):
+Excerpt transcribed from the user's pasted report on 2026-10-21. Whitespace and the
+MD5 table layout were normalized for portability; the namespace package list was omitted. This is user-run native R
+evidence, not a claim that R ran in the preparation environment. The detailed
+reconstructed RDS remains on the user's computer and was not independently
+downloaded. All four supplied input MD5 values match the local package files.

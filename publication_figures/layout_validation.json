@@ -1,0 +1,90 @@
+{
+  "operation": "layout_only",
+  "images_generated_and_visually_reviewed": true,
+  "native_R_redraw_executed_here": false,
+  "blood_models_refitted": false,
+  "archived_numeric_tables_unchanged": true,
+  "Figure2_heatmap_max_absolute_error": 0.0,
+  "Figure4_boxplot_rule": "R boxplot.stats Tukey hinges and 1.5-IQR whiskers",
+  "Figure6_marks": "Native R PDF vector marks retained; no DUOX-removal sample values digitized",
+  "figures": [
+    {
+      "figure": 1,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 446.3999938964844,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        3720
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    },
+    {
+      "figure": 2,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 313.20001220703125,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        2610
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    },
+    {
+      "figure": 3,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 414.0,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        3450
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    },
+    {
+      "figure": 4,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 385.20001220703125,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        3210
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    },
+    {
+      "figure": 5,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 424.79998779296875,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        3540
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    },
+    {
+      "figure": 6,
+      "page_count": 1,
+      "width_pt": 518.4000244140625,
+      "height_pt": 279.0,
+      "text_outside_page": [],
+      "TIFF_pixels": [
+        4320,
+        2325
+      ],
+      "TIFF_DPI": 600,
+      "PNG_DPI": 300
+    }
+  ]
+}

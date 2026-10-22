@@ -1,0 +1,2 @@
+"Dataset","Case_N","Control_N","Mean_difference","Permutation_P","LOO_positive","LOO_min","LOO_max"
+"GSE345158",5,4,1.46787769145992,0.0158730158730159,9,1.30117526731443,1.84711262886955

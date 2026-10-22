@@ -1,0 +1,86 @@
+Domain,Family / structural unit（家族/结构单元）,gene_set
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）,HALLMARK_ANGIOGENESIS
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）,GOBP_SPROUTING_ANGIOGENESIS
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）,GOBP_ENDOTHELIAL_CELL_MIGRATION
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）,GOBP_ENDOTHELIAL_CELL_PROLIFERATION
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Angiogenesis / endothelial remodeling（血管生成 / 内皮重塑）,GOBP_ENDOTHELIAL_CELL_APOPTOTIC_PROCESS
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Hemostasis / thrombosis-fibrinolysis（止血 / 血栓-纤溶）,HALLMARK_COAGULATION
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Hemostasis / thrombosis-fibrinolysis（止血 / 血栓-纤溶）,GOBP_PLATELET_ACTIVATION
+Domain 1 — Vascular / microcirculation（血管 / 微循环）,Hemostasis / thrombosis-fibrinolysis（止血 / 血栓-纤溶）,GOBP_FIBRINOLYSIS
+Domain 2 — Lipid metabolism（脂质代谢）,脂肪酸,HALLMARK_FATTY_ACID_METABOLISM
+Domain 2 — Lipid metabolism（脂质代谢）,脂肪酸,GOBP_FATTY_ACID_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,脂肪酸,GOBP_FATTY_ACID_BETA_OXIDATION
+Domain 2 — Lipid metabolism（脂质代谢）,脂肪酸,GOBP_FATTY_ACID_TRANSPORT
+Domain 2 — Lipid metabolism（脂质代谢）,脂肪酸,GOBP_FATTY_ACID_HOMEOSTASIS
+Domain 2 — Lipid metabolism（脂质代谢）,三酰甘油 / 中性脂质,GOBP_TRIGLYCERIDE_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,三酰甘油 / 中性脂质,GOBP_TRIGLYCERIDE_STORAGE
+Domain 2 — Lipid metabolism（脂质代谢）,三酰甘油 / 中性脂质,GOBP_ACYLGLYCEROL_HOMEOSTASIS
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,HALLMARK_CHOLESTEROL_HOMEOSTASIS
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,GOBP_STEROL_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,GOBP_CHOLESTEROL_EFFLUX
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,GOBP_CHOLESTEROL_IMPORT
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,GOBP_CHOLESTEROL_STORAGE
+Domain 2 — Lipid metabolism（脂质代谢）,胆固醇 / 甾醇,GOBP_CHOLESTEROL_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,磷脂,GOBP_PHOSPHOLIPID_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,磷脂,GOBP_PHOSPHOLIPID_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,磷脂,GOBP_PHOSPHOLIPID_TRANSPORT
+Domain 2 — Lipid metabolism（脂质代谢）,磷脂,GOBP_PHOSPHOLIPID_HOMEOSTASIS
+Domain 2 — Lipid metabolism（脂质代谢）,神经酰胺,GOBP_CERAMIDE_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,神经酰胺,GOBP_CERAMIDE_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,神经酰胺,GOBP_CERAMIDE_TRANSPORT
+Domain 2 — Lipid metabolism（脂质代谢）,糖脂,GOBP_GLYCOLIPID_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,糖脂,GOBP_GLYCOLIPID_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,糖脂,GOBP_GLYCOLIPID_TRANSPORT
+Domain 2 — Lipid metabolism（脂质代谢）,醚脂,GOBP_ETHER_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,脂蛋白,GOBP_LIPOPROTEIN_BIOSYNTHETIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,脂蛋白,GOBP_LIPOPROTEIN_CATABOLIC_PROCESS
+Domain 2 — Lipid metabolism（脂质代谢）,脂蛋白,GOBP_LIPOPROTEIN_LOCALIZATION
+Domain 2 — Lipid metabolism（脂质代谢）,脂滴,GOBP_LIPID_DROPLET_FORMATION
+Domain 2 — Lipid metabolism（脂质代谢）,脂滴,GOBP_LIPID_DROPLET_DISASSEMBLY
+Domain 2 — Lipid metabolism（脂质代谢）,脂滴,GOBP_LIPID_DROPLET_FUSION
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 1 — Oxygen-level / hypoxia response（氧水平 / 缺氧应答）,HALLMARK_HYPOXIA
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 1 — Oxygen-level / hypoxia response（氧水平 / 缺氧应答）,GOBP_HYPOXIA_INDUCIBLE_FACTOR_1ALPHA_SIGNALING_PATHWAY
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 1 — Oxygen-level / hypoxia response（氧水平 / 缺氧应答）,GOBP_INTRACELLULAR_OXYGEN_HOMEOSTASIS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 2 — Oxidative-stress response（氧化应激应答）,GOBP_CELLULAR_RESPONSE_TO_OXIDATIVE_STRESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 2 — Oxidative-stress response（氧化应激应答）,HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_REACTIVE_OXYGEN_SPECIES_METABOLIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_REACTIVE_OXYGEN_SPECIES_BIOSYNTHETIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_HYDROGEN_PEROXIDE_BIOSYNTHETIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_HYDROGEN_PEROXIDE_CATABOLIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_SUPEROXIDE_METABOLIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 3 — Reactive oxygen species metabolism（活性氧代谢）,GOBP_SUPEROXIDE_ANION_GENERATION
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 4 — Redox homeostasis（氧化还原稳态）,GOBP_CELL_REDOX_HOMEOSTASIS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 5 — Glutathione / antioxidant defense（谷胱甘肽 / 抗氧化防御）,GOBP_GLUTATHIONE_METABOLIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 5 — Glutathione / antioxidant defense（谷胱甘肽 / 抗氧化防御）,GOBP_GLUTATHIONE_CATABOLIC_PROCESS
+Domain 3 — Hypoxia / oxidative stress / redox regulation（缺氧 / 氧化应激 / 氧化还原调控）,Family 5 — Glutathione / antioxidant defense（谷胱甘肽 / 抗氧化防御）,GOBP_GLUTATHIONE_TRANSPORT
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 1 — Inflammatory response（炎症应答）,HALLMARK_INFLAMMATORY_RESPONSE
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 1 — Inflammatory response（炎症应答）,GOBP_ACUTE_INFLAMMATORY_RESPONSE
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 1 — Inflammatory response（炎症应答）,GOBP_CHRONIC_INFLAMMATORY_RESPONSE
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 2 — Innate immune response（先天免疫应答）,GOBP_CELL_SURFACE_PATTERN_RECOGNITION_RECEPTOR_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 2 — Innate immune response（先天免疫应答）,GOBP_CYTOPLASMIC_PATTERN_RECOGNITION_RECEPTOR_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 2 — Innate immune response（先天免疫应答）,GOBP_TOLL_LIKE_RECEPTOR_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 2 — Innate immune response（先天免疫应答）,GOBP_INFLAMMASOME_MEDIATED_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 2 — Innate immune response（先天免疫应答）,GOBP_CGAS_STING_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 3 — Cytokine signaling/response（细胞因子信号/应答）,GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 3 — Cytokine signaling/response（细胞因子信号/应答）,HALLMARK_IL6_JAK_STAT3_SIGNALING
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 3 — Cytokine signaling/response（细胞因子信号/应答）,HALLMARK_TNFA_SIGNALING_VIA_NFKB
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 3 — Cytokine signaling/response（细胞因子信号/应答）,HALLMARK_INTERFERON_ALPHA_RESPONSE
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 3 — Cytokine signaling/response（细胞因子信号/应答）,HALLMARK_INTERFERON_GAMMA_RESPONSE
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 4 — Leukocyte activation/trafficking（白细胞活化/募集）,GOBP_MYELOID_LEUKOCYTE_ACTIVATION
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 4 — Leukocyte activation/trafficking（白细胞活化/募集）,GOBP_LEUKOCYTE_ADHESION_TO_VASCULAR_ENDOTHELIAL_CELL
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 4 — Leukocyte activation/trafficking（白细胞活化/募集）,GOBP_LEUKOCYTE_MIGRATION
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 5 — Adaptive T/B immunity（T/B适应性免疫）,GOBP_T_CELL_ACTIVATION
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 5 — Adaptive T/B immunity（T/B适应性免疫）,GOBP_T_CELL_RECEPTOR_SIGNALING_PATHWAY
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 5 — Adaptive T/B immunity（T/B适应性免疫）,GOBP_B_CELL_ACTIVATION
+Domain 4 — Inflammation / immune regulation（炎症 / 免疫调控）,Family 5 — Adaptive T/B immunity（T/B适应性免疫）,GOBP_B_CELL_RECEPTOR_SIGNALING_PATHWAY
+Domain 5 — Bone remodeling / repair（骨重塑 / 修复）,Family 1 — Osteoblast differentiation（成骨细胞分化）,GOBP_OSTEOBLAST_DIFFERENTIATION
+Domain 5 — Bone remodeling / repair（骨重塑 / 修复）,Family 2 — Osteoclast differentiation / bone resorption（破骨细胞分化 / 骨吸收）,GOBP_OSTEOCLAST_DIFFERENTIATION
+Domain 5 — Bone remodeling / repair（骨重塑 / 修复）,Family 2 — Osteoclast differentiation / bone resorption（破骨细胞分化 / 骨吸收）,GOBP_BONE_RESORPTION
+Domain 5 — Bone remodeling / repair（骨重塑 / 修复）,Family 3 — Bone mineralization（骨矿化）,GOBP_BONE_MINERALIZATION
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 1 — Apoptosis（细胞凋亡）,HALLMARK_APOPTOSIS
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 1 — Apoptosis（细胞凋亡）,GOBP_INTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 1 — Apoptosis（细胞凋亡）,GOBP_EXTRINSIC_APOPTOTIC_SIGNALING_PATHWAY
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 1 — Apoptosis（细胞凋亡）,GOBP_EXECUTION_PHASE_OF_APOPTOSIS
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 2 — Necroptosis（坏死性凋亡/程序性坏死）,GOBP_NECROPTOTIC_PROCESS
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 3 — Ferroptosis（铁死亡）,GOBP_FERROPTOSIS
+Domain 6 — Cell injury / death（细胞损伤 / 死亡）,Family 4 — Pyroptosis（焦亡）,GOBP_PYROPTOTIC_CELL_DEATH
